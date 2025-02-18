@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToXiCzZ-dev
 - 👀 I’m interested in ... python and gui development 
-- 🌱 I’m currently learning ... python and kali
+- 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on discord "_ToXiCzZ #0060
 - 😄 Pronouns: ... HE/HIM
